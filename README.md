@@ -8,3 +8,4 @@ Dipersilahkan bila ingin melakukan open pull request atau kontribusi pada reposi
 ## Quick Access (Akses Cepat)
 
 Semua _Source Code_ yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
+* [Definisi Dart]()
