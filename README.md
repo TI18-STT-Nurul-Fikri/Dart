@@ -1,3 +1,5 @@
+![Dart](assets/img/dart.png)
+
 # Dart
 Repositori ini berisi pembelajaran dan contoh-contoh dari impelementasi **Dart**
 
