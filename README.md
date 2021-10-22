@@ -8,4 +8,4 @@ Dipersilahkan bila ingin melakukan open pull request atau kontribusi pada reposi
 ## Quick Access (Akses Cepat)
 
 Semua _Source Code_ yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
-* [Definisi Dart]()
+* [Definisi Dart](https://github.com/TI18-STT-Nurul-Fikri/Dart/tree/main/Definisi)
