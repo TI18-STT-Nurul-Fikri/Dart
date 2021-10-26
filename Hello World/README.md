@@ -24,11 +24,11 @@ Jangan pusing dulu ya.. :grin:
 
 5. Selanjutkan kita jalankan program yang sudah kita buat tadi, caranya kita buka terminal terlebih dahulu
 
-    ( Jika kalian menggunakan **VS Code**, kalian tinggal buka melalui menu yang ada di atas layar, Terminal -> New Terminal ).
+( Jika kalian menggunakan **VS Code**, kalian tinggal buka melalui menu yang ada di atas layar, Terminal -> New Terminal ).
 
-    Jika kalian bukan menggunakan **VS Code** seilahkan buka terminal anda, kemudian arahkan atau masuk kedalam folder tempat kalian menyimpan file dart tadi.
+Jika kalian bukan menggunakan **VS Code** seilahkan buka terminal anda, kemudian arahkan atau masuk kedalam folder tempat kalian menyimpan file dart tadi.
 
-    Jika sudah, kalian ketikkan perintah ini untuk menjalankan program dartnya.
+Jika sudah, kalian ketikkan perintah ini untuk menjalankan program dartnya.
 
 ```
 dart run hello_world.dart
